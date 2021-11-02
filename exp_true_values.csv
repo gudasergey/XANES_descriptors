@@ -1,0 +1,57 @@
+name;CN;FeODist;valence
+Fe@SiO2_2;2;1.92;2
+FeII siloxide;4;2;2
+Fe@SiO2_4;2.9;1.93;2
+FeIII siloxide;4;1.9;3
+Fe@SiO2_1;4;1.99;2
+Fe@SiO2_5;;;2
+FeII fumarate;4;;2
+Fe@SiO2_3;4;1.99;2
+Fe@SiO2_6;;;2
+Moldavite-1;;;2.13
+Indoshinite;;;2.06
+Muong-Nong-2;;;2.19
+Muong-Nong-1;;;
+Australite-1;;;2.11
+Zhamanshinite-1;;;2.33
+Zhamanshinite-2;;;
+Zhamanshinite-3;;;
+Zhamanshinite-4;;;2.84
+Zhamanshinite-5;;;
+Irghisite-1;;;2.3
+Irghisite-2;;;
+a-Fe2O3;6;2.03;3
+g-Fe2O3;5.34;2.01;3
+Fe2SiO4;6;2.19;2
+Fe23O4;5.34;2.01;2.67
+NaFeSi2O6;6;2.02;3
+glass_0.01;;;2
+glass_0.28;;;2.28
+glass_0.54;;;2.54
+glass_0.67;;;2.67
+glass_0.87;;;2.87
+Australite-2;;2.01;2
+Cambodianite;;2.02;2
+Moldavite-2;;1.99;2.15
+Aouelloul glass;;;2.3
+Darwin glass;;;2
+Irghizite;;;2.4
+Lybian desert glass;;;2.8
+Ries suevite;;;2.3
+Wabar glass;;;2.2
+akermanite;4;;2
+andradite;6;2.03;3
+grandidierite;5;;2
+kirschsteinite;6;2.18;2
+siderite;6;2.14;2
+staurolite;4;;2
+yoderite;5;;3
+h1;;;2.6
+h10;;;2.55
+h2;;;2.32
+h3;;;2.2
+h4;;;2.27
+h5;;;2.5
+h6;;;2.7
+h7;;;2.5
+h8;;;2.17
